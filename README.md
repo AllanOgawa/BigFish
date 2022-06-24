@@ -7,7 +7,9 @@ Projeto: BigFish
 
 ### ALAN MINORU | ALLAN OGAWA | HEITOR BRANDOLIN | MICHELLE FREGNANI | RODRIGO BRANCO NASCIMENTO | TIAGO KENJI BORTULUCCI KOBATA
 ## Informações:
-BigFish é um sistema onde, através de dados enviados por terceiros, ele mostra ao usuário esses dados de maneira mais simples e completa, servindo como front-end, feito por Pseudo-Linguagem algorítmica Portugol, e o VisualG(v3.5) como IDE.
+BigFish é um sistema onde, através de dados enviados por terceiros, ele mostra ao usuário esses dados de maneira mais simples e completa, servindo como front-end.
+
+Pseudo-Linguagem Portugol - IDE: VisualG(v3.5)
 
 ## Arquivos:
 - BigFish.alg , algoritmo feito em Portugol
